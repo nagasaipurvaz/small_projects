@@ -1,0 +1,10 @@
+
+.back {
+	background-color: black;
+	margin: 0;
+}
+
+canvas {
+	cursor: crosshair;
+	display: block;
+}
